@@ -12,10 +12,10 @@
 <header>
     <h1>ROPASTILE</h1>
 
-    <nav>
+<nav>
     <a href="index.php">Inicio</a>
     <a href="#">Nosotros</a>
-    <a href="index.php?pagina=productos">Productos</a>
+    <a href="#">Productos</a>
     <a href="#">Contacto</a>
     <a href="index.php?pagina=login">Iniciar sesión</a>
 </nav>
